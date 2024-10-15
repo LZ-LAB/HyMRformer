@@ -1,5 +1,4 @@
-# The HyMRformer Model
-This paper has been submitted to The Web Conference 2025 (WWW 2025).
+All local experiments are obtained on NVIDIA GeForce RTX 3090 GPUs and PyTorch 1.12.0.
 
 
 
