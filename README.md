@@ -52,7 +52,7 @@ python main-2ary.py --dataset FB15K-237 --batch_size 100 --lr 0.00058 --dr 0.99 
 python main-2ary.py --dataset JF17K-2 --batch_size 900 --lr 0.00012 --dr 0.99 --input_drop 0.1 --hidden_drop 0.6 --feature_drop 0.1 --dembed 500 --RAD_Size 6 --num_heads 8
 
 ## WikiPeople-2 dataset
-python main-2ary.py --dataset WikiPeople-2 --batch_size 700 --lr 0.00056 --dr 0.999 --input_drop 0.6 --hidden_drop 0.5 --feature_drop 0.2 --dembed 200 --RAD_Size 3 --num_heads 4
+python main-2ary.py --dataset WikiPeople-2 --batch_size 800 --lr 0.00037 --dr 0.995 --input_drop 0.7 --hidden_drop 0.6 --feature_drop 0.5 --dembed 400 --RAD_Size 10 --num_heads 1
 
 ## FB-AUTO-2 dataset
 python main-2ary.py --dataset FB-AUTO-2 --batch_size 300 --lr 0.00027 --dr 0.999 --input_drop 0.9 --hidden_drop 0.2 --feature_drop 0.7 --dembed 500 --RAD_Size 1 --num_heads 1
