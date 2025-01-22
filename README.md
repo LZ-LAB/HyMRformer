@@ -18,7 +18,7 @@ The version of Python and major packages needed to run the code:
 
 #### 1. Mixed Arity Knowledge Hypergraph
 ```
-**JF17K dataset**
+## **JF17K dataset**
 python main-JF.py --dataset JF17K --batch_size 400 --lr 0.00020 --dr 0.999 --input_drop 0.5 --hidden_drop 0.4 --feature_drop 0.2 --dembed 100 --RAD_Size 2 --num_heads 4
 
 ## WikiPeople dataset
