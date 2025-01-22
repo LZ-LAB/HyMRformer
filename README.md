@@ -60,6 +60,10 @@ python main-2ary.py --dataset WikiPeople-2 --batch_size 800 --lr 0.00037 --dr 0.
 python main-2ary.py --dataset FB-AUTO-2 --batch_size 300 --lr 0.00027 --dr 0.999 --input_drop 0.9 --hidden_drop 0.2 --feature_drop 0.7 --dembed 500 --RAD_Size 1 --num_heads 1
 ```
 
+
+
+
+
 ## Baseline Models
 We are very grateful for all open-source baseline models:
 
