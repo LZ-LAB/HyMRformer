@@ -1,4 +1,4 @@
-This paper has been submitted to SIGIR 2025.
+This paper has been submitted to KBS.
 
 All local experiments are obtained on NVIDIA GeForce RTX 3090 GPUs and PyTorch 1.12.0.
 
