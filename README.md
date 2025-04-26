@@ -22,7 +22,7 @@ The version of Python and major packages needed to run the code:
 python main-JF.py --dataset JF17K --batch_size 1000 --lr 0.00001 --dr 0.999 --input_drop 0.0 --hidden_drop 0.3 --feature_drop 0.3 --Weight_Size 0.4 --num_heads 6
 
 ## WikiPeople dataset
-python main-WP.py --dataset WikiPeople
+python main-WP.py --dataset WikiPeople --batch_size 500 --lr 0.00007 --dr 0.999 --input_drop 0.6 --hidden_drop 0.3 --feature_drop 0.2 --Weight_Size 0.2 --num_heads 2
 
 ## FB-AUTO dataset
 python main-FB.py --dataset FB-AUTO --batch_size 600 --lr 0.00014 --dr 0.995 --input_drop 0.8 --hidden_drop 0.1 --feature_drop 0.0 --Weight_Size 0.3 --num_heads 8
@@ -54,7 +54,7 @@ python main-2ary.py --dataset FB15K-237 --batch_size 200 --lr 0.00012 --dr 0.995
 python main-2ary.py --dataset JF17K-2 --batch_size 300 --lr 0.00007 --dr 0.99 --input_drop 0.1 --hidden_drop 0.3 --feature_drop 0.7 --Weight_Size 0.1 --num_heads 2
 
 ## WikiPeople-2 dataset
-python main-2ary.py --dataset WikiPeople-2
+python main-2ary.py --dataset WikiPeople-2 --batch_size 400 --lr 0.00007 --dr 0.999 --input_drop 0.5 --hidden_drop 0.1 --feature_drop 0.2 --Weight_Size 0.2 --num_heads 4
 
 ## FB-AUTO-2 dataset
 python main-2ary.py --dataset FB-AUTO-2 --batch_size 100 --lr 0.00018 --dr 0.999 --input_drop 0.9 --hidden_drop 0.0 --feature_drop 0.0 --Weight_Size 0.3 --num_heads 6
