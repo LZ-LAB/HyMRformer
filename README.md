@@ -8,8 +8,8 @@ All local experiments are obtained on NVIDIA GeForce RTX 3090 GPUs and PyTorch 1
 The version of Python and major packages needed to run the code:
    
     -- python 3.9.16
-    -- torch 1.12.0
-    -- numpy 1.26.0
+    -- torch 1.12.0 (2.5.1)
+    -- numpy 1.26.0 (1.26.4)
     -- tqdm 4.65.0
 
 
