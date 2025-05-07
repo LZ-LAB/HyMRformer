@@ -26,6 +26,9 @@ python main-WP.py --dataset WikiPeople --batch_size 500 --lr 0.00007 --dr 0.999 
 
 ## FB-AUTO dataset
 python main-FB.py --dataset FB-AUTO --batch_size 600 --lr 0.00014 --dr 0.995 --input_drop 0.8 --hidden_drop 0.1 --feature_drop 0.0 --Weight_Size 0.3 --num_heads 8
+
+## M-FB15K dataset
+python main-FB.py --dataset M-FB15K --batch_size 400 --lr 0.00006 --dr 0.995 --input_drop 0.5 --hidden_drop 0.2 --feature_drop 0.4 --Weight_Size 0.7 --num_heads 2
 ```
 
 
