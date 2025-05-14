@@ -1,4 +1,4 @@
-This paper has been submitted to KBS.
+This paper has been submitted to Knowledge-Based Systems.
 
 All local experiments are obtained on NVIDIA GeForce RTX 3090 GPUs and PyTorch 1.12.0.
 
