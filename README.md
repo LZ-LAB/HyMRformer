@@ -1,4 +1,4 @@
-This paper has been submitted to Knowledge-Based Systems.
+This paper has been submitted to the IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE) journal.
 
 All local experiments are obtained on NVIDIA GeForce RTX 3090 GPUs and PyTorch 1.12.0.
 
